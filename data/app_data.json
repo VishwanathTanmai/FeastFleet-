@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "1743709353",
+      "name": "Malladi Vishwanath Tanmai",
+      "email": "m.vishwanathtanmai@gmail.com",
+      "phone": "m.vishwanathtanmai@gmail.com",
+      "password_hash": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+      "user_type": "customer",
+      "created_at": 1743709353.4887037,
+      "profile": {
+        "address": "",
+        "preferences": [],
+        "allergies": []
+      }
+    }
+  ],
+  "restaurants": [],
+  "menu_items": [],
+  "orders": []
+}
